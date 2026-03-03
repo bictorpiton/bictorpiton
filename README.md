@@ -13,4 +13,5 @@ My projects focus of building reproductible analytical pipelines, simulating neu
 ## About Me:
 I am interested in systems, how structured mechanism generate observable behaviour, this applying to neural circuits, social enviorments, and pharmacology.
 My background combines medical training, psychology, and computational experimentation. I am drawn to questions that connect theory with implementation. I value precision in thinking equally to creative thinking patterns, independence in learning. My work is self-directed, driven by curiosity, while still having a core rooted in my formal academic training, general medicine.
+
 Available in en/de/ro
