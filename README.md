@@ -1,1 +1,1 @@
-Available in en/de/or
+Available in en/de/ro
